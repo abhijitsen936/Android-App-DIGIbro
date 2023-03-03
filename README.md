@@ -1,7 +1,7 @@
 # Android-App-DIGIbro
 Digiboxx Codathon Challenge
 
-#### a recruitment portal where the recruiters and candidates can login. A new user can be created by anyone
+#### a recruitment portal where the recruiters and candidates can login. The candidates can share their resume and recruiter can see that resume.
 
 
 
